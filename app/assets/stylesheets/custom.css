@@ -8,11 +8,15 @@ body {
 
 header {
 	padding-top: 20px;	
+	padding-bottom: 10px;
+	float:left;
+	width: 100%;
 }
 
 header img {
 	padding: 1em;
 	background: #fff;
+	float: left;
 }
 
 section {
@@ -20,6 +24,7 @@ section {
 	font-size: 120%;
 	padding: 20px;
 	background: #fff;
+	clear: both;
 }
 
 section h1 {
